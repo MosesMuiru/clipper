@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+model/
+*.mp4
+client_secret*.json
+token*.json
